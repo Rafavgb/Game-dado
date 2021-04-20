@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  .main {
+    background: rgb(35, 189, 99);
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  #img {
+    width: 150px;
+    height: 150px;
+  }
+  #btn {
+    width: 250px;
+    height: 50px;
+    margin: 20px;
+    font-size: 2rem;
+    font-family: monospace;
+    font-weight: 700;
+    color: rgb(15, 15, 15);
+    border: none;
+    cursor: pointer;
+    border-radius: 50px;
+    outline: none;
+    background: #4db198;
+    background-image: #7776d4;
+  }
